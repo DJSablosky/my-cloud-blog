@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on My Cloud Blog</title>
+    <link>https://blog.sablosky.io/article/</link>
+    <description>Recent content in Articles on My Cloud Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 04 Apr 2021 18:31:12 -0400</lastBuildDate><atom:link href="https://blog.sablosky.io/article/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amazon FSx for Windows File Server in AWS GovCloud</title>
+      <link>https://blog.sablosky.io/article/fsx-govcloud/</link>
+      <pubDate>Sun, 04 Apr 2021 18:31:12 -0400</pubDate>
+      
+      <guid>https://blog.sablosky.io/article/fsx-govcloud/</guid>
+      <description>Amazon Web Services (AWS) shares responsibility for security and compliance by protecting the infrastructure of its services while customers configure security for their selected services. In December, 2020, Amazon FSx for Windows File Server became available in the AWS GovCloud (US) Regions as a shared file system for Windows environments (as opposed to Amazon Elastic File System, which is generally used more for Linux systems.) Amazon FSx for Windows File Server provides fully managed native Windows file shares designed for Windows integration, including Active Directory running on AWS or on-premises.</description>
+    </item>
+    
+  </channel>
+</rss>
