@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on My Cloud Blog</title>
-    <link>https://blog.sablosky.io/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on My Cloud Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 04 Apr 2021 18:31:12 -0400</lastBuildDate><atom:link href="https://blog.sablosky.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Apr 2021 18:31:12 -0400</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Storage</title>
-      <link>https://blog.sablosky.io/categories/storage/</link>
+      <link>/categories/storage/</link>
       <pubDate>Sun, 04 Apr 2021 18:31:12 -0400</pubDate>
       
-      <guid>https://blog.sablosky.io/categories/storage/</guid>
+      <guid>/categories/storage/</guid>
       <description></description>
     </item>
     
