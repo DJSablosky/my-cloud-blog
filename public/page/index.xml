@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on My Cloud Blog</title>
-    <link>https://www.example.com/page/</link>
+    <link>/page/</link>
     <description>Recent content in Pages on My Cloud Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 04 Apr 2021 18:20:39 -0400</lastBuildDate><atom:link href="https://www.example.com/page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Apr 2021 18:20:39 -0400</lastBuildDate><atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://www.example.com/page/about/</link>
+      <link>/page/about/</link>
       <pubDate>Sun, 04 Apr 2021 18:20:39 -0400</pubDate>
       
-      <guid>https://www.example.com/page/about/</guid>
+      <guid>/page/about/</guid>
       <description>My name is Daniel Sablosky. I am cloud architect with proficiency in Amazon Web Services as well as comprehensive training in computer programming. I am based in Columbus, Ohio.
 Digital Badges</description>
     </item>

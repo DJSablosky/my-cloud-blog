@@ -3,62 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.example.com/article/fsx-govcloud/</loc>
+    <loc>/article/fsx-govcloud/</loc>
     <lastmod>2021-04-04T18:31:12-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.example.com/article/</loc>
+    <loc>/article/</loc>
     <lastmod>2021-04-04T18:31:12-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.example.com/author/</loc>
+    <loc>/author/</loc>
     <lastmod>2021-04-04T18:31:12-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.example.com/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2021-04-04T18:31:12-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.example.com/author/daniel-sablosky/</loc>
+    <loc>/author/daniel-sablosky/</loc>
     <lastmod>2021-04-04T18:31:12-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.example.com/tags/fsx/</loc>
+    <loc>/tags/fsx/</loc>
     <lastmod>2021-04-04T18:31:12-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.example.com/</loc>
+    <loc>/</loc>
     <lastmod>2021-04-04T18:31:12-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.example.com/categories/storage/</loc>
+    <loc>/categories/storage/</loc>
     <lastmod>2021-04-04T18:31:12-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.example.com/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2021-04-04T18:31:12-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.example.com/page/about/</loc>
+    <loc>/page/about/</loc>
     <lastmod>2021-04-04T18:20:39-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.example.com/page/</loc>
+    <loc>/page/</loc>
     <lastmod>2021-04-04T18:20:39-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.example.com/series/</loc>
+    <loc>/series/</loc>
   </url>
   
 </urlset>
