@@ -1,7 +1,7 @@
 ---
 title: "Amazon EKS in AWS GovCloud"
 date: 2021-04-28T11:27:20-04:00
-draft: true
+draft: false
 
 categories: [Containers]
 tags: [EKS]
