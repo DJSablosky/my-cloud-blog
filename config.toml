@@ -2,8 +2,6 @@ title = "My Cloud Blog"
 baseURL = "/"
 theme = "bilberry-hugo-theme"
 
-# Checking search 5.0
-
 # Generate the robots.txt file for SEO
 enableRobotsTXT = true
 
