@@ -1,7 +1,7 @@
 ---
 title: "Amazon WorkSpaces"
 date: 2021-07-26T13:55:21-04:00
-draft: true
+draft: false
 
 categories: [Computing]
 tags: [WorkSpaces]
