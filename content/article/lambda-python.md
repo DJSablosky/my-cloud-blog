@@ -4,7 +4,7 @@ date: 2021-06-16T12:51:52-04:00
 draft: false
 
 categories: [Compute]
-tags: [Lambda]
+tags: [Lambda, Python]
 toc: false
 author: "Daniel Sablosky"
 ---
